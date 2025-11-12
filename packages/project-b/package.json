@@ -1,0 +1,9 @@
+{
+  "name": "dependatabot-playground-2",
+  "scripts": {
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  },
+  "devDependencies": {}
+}
