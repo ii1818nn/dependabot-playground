@@ -6,6 +6,3 @@ updates:
     schedule:
       interval: "daily"
     target-branch: "master"
-    labels:
-      - "npm dependencies"
-      - "frontend"
