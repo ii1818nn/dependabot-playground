@@ -5,5 +5,5 @@ updates:
     directories:
       - "packages/*"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     target-branch: "master"
