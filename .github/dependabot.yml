@@ -5,7 +5,7 @@ updates:
     directories:
       - "packages/*"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     target-branch: "master"
     open-pull-requests-limit: 3
     ignore:
