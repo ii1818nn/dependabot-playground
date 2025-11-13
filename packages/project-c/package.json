@@ -2,7 +2,9 @@
   "name": "dependatabot-playground-3",
   "scripts": {},
   "dependencies": {
-    "lodash": "4.17.19"
+    "lodash": "4.17.19",
+    "express": "4.21.2",
+    "fastify": "4.29.1"
   },
   "devDependencies": {}
 }

@@ -3,7 +3,8 @@
   "scripts": {
   },
   "dependencies": {
-    "lodash": "4.17.21"
+    "lodash": "4.17.21",
+    "express": "4.21.2"
   },
   "devDependencies": {}
 }
